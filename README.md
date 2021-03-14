@@ -20,7 +20,6 @@ It's difficult finding new friends during quarantine. Which is we are building a
 
 **Ken Zeng**
 
-- <https://twitter.com/mdo>
 - <https://github.com/kenzeng24>
 
 **Paul Jiang**
