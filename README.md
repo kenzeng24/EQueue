@@ -4,11 +4,16 @@ It's difficult finding new friends during quarantine. Which is we are building a
 
 ## Table of contents
 
+- [Inspiration](#inspiration)
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
+
+## Inspiration
+
+COVID19 threw a wrench in most people’s social lives. And as the pandemic reaches its one year anniversary, most of us struggled with making connections with new people. However, there are some bright spots amidst these trying times. My team mates and I love video games. We’ve seen a lot of video game matching making systems that pairs us with team mates across the world. Colloquially, this is known as “Queueing”, which is where the name of our app comes from. Sometimes we would become friends with some of these strangers; and more often than not, we would realize that we share additional hobbies with these strangers: whether it be a love of mathematics, or drawing comics or other games. Therefore, we want to replicate the positive aspect of “queueing” system in our social app for uses outside of gaming. As a user, you could be queueing up for a group to pursue some activity such as watching a movie, chatting, etc. 
 
 ## Quick start
 
